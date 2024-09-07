@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT Department) AS DeptCount FROM cape_codd.SKU_DATA;

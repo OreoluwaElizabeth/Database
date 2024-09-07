@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS NumberOfRows FROM cape_codd.ORDER_ITEM;

@@ -1,0 +1,1 @@
+SELECT OrderNumber, SKU FROM cape_codd.ORDER_ITEM WHERE Quantity * Price <> ExtendedPrice ORDER BY OrderNumber, SKU;

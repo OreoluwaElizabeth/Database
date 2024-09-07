@@ -1,0 +1,1 @@
+SELECT * FROM cape_codd.SKU_DATA WHERE Buyer LIKE '%PETE%';
